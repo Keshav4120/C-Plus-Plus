@@ -17,6 +17,9 @@ int main(){
     //String (we can include number in string we they are treated differently)
     std::string name = "Keshav Jindal";
 
+    // if we have to some value constant we have to put const in the stating of the declaration of varianble
+    const double z = 100;
+
     
     std::cout << x << '\n' ;
     std::cout << y << '\n' ;
@@ -26,6 +29,7 @@ int main(){
     std::cout << student << '\n' ;
     std::cout << name << '\n' ;
     std::cout << "Hello " << name ;
+     std::cout << z << '\n' ;
 
 
     return 0;
