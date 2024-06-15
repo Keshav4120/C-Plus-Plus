@@ -6,3 +6,4 @@
 	 	Day 4: "So today i learn about typedef and using ; I already know about typedef but using is a new concept for me ."
    		Day 5: "So i learn about arthmetic operation(i already know about that) and type conversion i get to know that there are two type of type conversion implicit and explixit ."
 		Day 6: "So today i learn the topic i am waiting for 'the input ' i dont know why but every language has its diff way to give imout an output but now i can make may think like calculator and many things ."
+		Day 7: "So today i am not felling well so i am just learn some maths problem and some things related maths like maximum and minimum"
